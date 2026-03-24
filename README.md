@@ -38,10 +38,6 @@ A Java-based car wash simulation that models car arrivals, waiting queues, and s
   - `Car`
   - `Pump`
 
-## Screenshot
-
-![Car Wash GUI](Car-Wash-Sim-Screenshot.png)
-
 ## How to Run
 
 1. Open the project in any Java IDE or terminal
