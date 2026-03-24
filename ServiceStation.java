@@ -1,10 +1,3 @@
-/*  Assignment 2 - Car Wash Simulation
-    Haneen Hisham   20236023
-    Shaza Moatasem  20236050
-    Ziad Tarek      20236043
-*/
-
-
 import java.util.LinkedList; // for the car queue (waiting area)
 import java.util.Queue;
 import java.util.Scanner; // to read user input
